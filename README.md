@@ -10,10 +10,7 @@ I walk through the entire approach — parsing `.ahap`, syncing to `AVPlayer`, d
 
 **▶️ Watch here:** **[https://youtu.be/g6TUiQzcwac](https://youtu.be/g6TUiQzcwac)**
 
-> Replace `VIDEO_ID` above with your actual YouTube ID.  
-> Optional thumbnail embed:
->
-> `[![Watch the video](https://img.youtube.com/vi/g6TUiQzcwac/maxresdefault.jpg)](https://youtu.be/g6TUiQzcwac)`
+ [![Watch the video](https://img.youtube.com/vi/g6TUiQzcwac/maxresdefault.jpg)](https://youtu.be/g6TUiQzcwac)
 
 ---
 
