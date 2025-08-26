@@ -86,9 +86,15 @@ HapticTransient = tap
 HapticContinuous + EventDuration = rumble
 All times in seconds; intensity/sharpness in 0…1.
 
+# File Creation. 
+
+I created the Haptic file in something called CuePoint, its not build for this but worked really well. I wrote some php to convert my output .txt to the needed json structure. Your millage may be different. 
+
+  
+
+More info is needed here but it is a baseline, hope you enjoy.
 
 
-More info is needed here but it is a baseline, hope you enjoy 
 
 
 Thomas Dye 
