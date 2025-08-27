@@ -6,11 +6,21 @@ Play an HLS or local video **in lockstep** with an Apple **Core Haptics** `.ahap
 
 ## 🎥 Watch the video: How I figured it out
 
-I walk through the entire approach — parsing `.ahap`, syncing to `AVPlayer`, drift correction, and edge cases.
+I walk through working out how apple made there haptic F1 trailer
 
 **▶️ Watch here:** **[https://youtu.be/g6TUiQzcwac](https://youtu.be/g6TUiQzcwac)**
 
  [![Watch the video](https://img.youtube.com/vi/g6TUiQzcwac/maxresdefault.jpg)](https://youtu.be/g6TUiQzcwac)
+
+
+## 🎥 Watch the video: How I built this haptic player 
+
+I walk through the entire approach — parsing `.ahap`, syncing to `AVPlayer`, drift correction, and edge cases.
+
+**▶️ Watch here:** **[https://youtu.be/MguJGtUWqa0](https://youtu.be/MguJGtUWqa0)**
+
+ [![Watch the video](https://img.youtube.com/vi/MguJGtUWqa0/maxresdefault.jpg)](https://youtu.be/MguJGtUWqa0)
+
 
 ---
 
